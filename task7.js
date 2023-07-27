@@ -22,10 +22,7 @@ function romanToInt(romanNumeral) {
     return result;
   }
   
-  // Example usage:
-  const romanNumeral1 = "IX";
-  const romanNumeral2 = "MXXI";
+
   
-  console.log(romanToInt(romanNumeral1)); 
-  console.log(romanToInt(romanNumeral2)); 
+  console.log(romanToInt("XXI")); 
   
